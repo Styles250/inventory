@@ -1,0 +1,18 @@
+Project: Inventory mgt System
+-----------------------------
+. CRUD
+. Validation
+. Login
+. Session
+. Join&Alias
+. Import
+. Export
+. PDF-Report
+. css
+. Frameworks & external libraries
+. cookies\
+--------------------------------------
+1. to delete product only require to specify the product to be deleted; by use of id of product
+2. to update product  require to specify the product to be updated; by use of id of product , specify fields to update with new values
+3. for importing an item in stock you are required record an opertion in supposed table and update stock with ex+added=quantity and to have the id op an item t import
+4. for Exporting product same to import but we decrease to the quantinty instead of increasing as we do in import
